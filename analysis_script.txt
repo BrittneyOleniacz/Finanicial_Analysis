@@ -45,7 +45,7 @@ output = f'''
     Financial Analysis
     ----------------------------
     Total Months: {total_months}
-    Total: #{total_amount:.2f}
+    Total: ${total_amount:.2f}
     Average  Change: ${average_change:.2f}
     Greatest Increase in Profits: {greatest_profit_month} (${most_profit:.2f})
     Greatest Decrease in Profits: {greatest_loss_month} (${most_loss:.2f})
