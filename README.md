@@ -68,7 +68,7 @@ with open(output_file, 'w') as textfile:
     textfile.write(output)    
 ```
 
-### Output
+## Output
 
     Financial Analysis
     ----------------------------
